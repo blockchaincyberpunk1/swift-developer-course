@@ -1,0 +1,44 @@
+Swift Developer Course
+
+Assignment 3: Looping and Iteration
+
+Objective: The objective of this assignment is to practice using loops in Swift, including for-in loops and while loops.
+
+Instructions:
+
+Part 1: For-In Loops
+
+Basic For-In Loops: Provide students with simple problems that require the use of for-in loops to iterate over arrays, ranges, or sequences. For example:
+
+Write a Swift program that calculates the sum of integers from 1 to N, where N is a user-defined number.
+Looping Over Arrays: Assign exercises that involve iterating over arrays to perform specific tasks. For example:
+
+Write a Swift program that finds the largest element in an array of integers.
+Looping with Enumerated Arrays: Introduce the concept of enumerated arrays and ask students to use for-in loops with enumerated arrays. For example:
+
+Write a Swift program that prints the index and value of each element in an array.
+Part 2: While Loops
+
+Basic While Loops: Present problems that require the use of while loops to perform repetitive tasks until a condition is met. For example:
+
+Write a Swift program that simulates a simple guessing game. The user keeps guessing a number until they guess correctly.
+Loop Control Statements: Include exercises that involve using loop control statements like break and continue. For example:
+
+Write a Swift program that finds the first occurrence of a specific value in an array and exits the loop once found.
+Nested Loops: Assign problems that require the use of nested loops to solve more complex tasks. For example:
+
+Write a Swift program that prints a pattern of stars in a triangle shape.
+Part 3: Submission and Evaluation
+
+Submission: Students should write Swift code to solve the assigned problems. They can submit their solutions as code files (e.g., .swift) or in a document.
+
+Evaluation: Assess students' code for correctness, the effective use of for-in and while loops, and adherence to Swift syntax rules. Provide feedback on code readability and efficiency in handling repetitive tasks.
+
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Encourage students to use meaningful variable names and add comments to explain their code.
+Promote discussions on when to use for-in loops versus while loops based on problem requirements.
+Emphasize the importance of loop control statements for efficient problem-solving.
+Encourage students to test their code with various inputs to ensure it functions correctly.

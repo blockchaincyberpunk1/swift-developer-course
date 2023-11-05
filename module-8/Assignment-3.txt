@@ -1,0 +1,74 @@
+Swift Developer Course
+
+Assignment 3: Core Graphics (iOS)
+
+Objective: The objective of this assignment is to understand advanced graphics rendering using Core Graphics on iOS. Students will gain practical experience in using Core Graphics to draw custom shapes, gradients, and images, as well as explore advanced graphics techniques.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will create an iOS app that leverages Core Graphics to draw custom shapes, gradients, and images. Core Graphics is a powerful framework that allows you to create sophisticated graphics and manipulate visual elements in iOS apps.
+
+Requirements:
+
+1. Choose Your iOS App:
+
+Select an existing iOS app from your previous assignments or create a new one if you prefer a fresh project.
+2. Core Graphics Integration:
+
+Integrate Core Graphics into your app to create custom graphics and visuals. You can choose from various graphics techniques, including but not limited to:
+Custom drawing: Use Core Graphics to draw shapes, lines, curves, and text on the screen.
+Gradients: Create gradient backgrounds, buttons, or other UI elements.
+Images: Manipulate images by applying filters, transformations, or custom effects.
+Clipping and masking: Experiment with clipping paths to create unique visual effects.
+Vector graphics: Implement vector graphics that scale without loss of quality.
+3. Custom Drawing:
+
+Implement custom drawing by subclassing UIView (or another relevant view class) and overriding the draw(_:) method. Create one or more custom-drawn UI elements.
+4. Gradients and Images:
+
+Create UI elements with gradient backgrounds or apply gradients to images. Experiment with different gradient styles (e.g., linear, radial) and color combinations.
+5. Image Manipulation:
+
+Use Core Graphics to apply filters or custom transformations to images. You can implement features like image cropping, resizing, or applying artistic filters.
+6. Clipping and Masking:
+
+Explore the use of clipping paths and masking to create visually interesting effects, such as rounded corners, custom shapes, or image masks.
+7. Vector Graphics:
+
+Implement vector graphics using Core Graphics to create scalable graphics that maintain quality across different device resolutions.
+8. User Interaction:
+
+Implement user interaction if relevant to your app's graphics. For example, allow users to draw on the screen, manipulate images, or interact with vector graphics.
+9. Testing:
+
+Thoroughly test your app to ensure that the Core Graphics-based graphics work as intended. Verify that they do not introduce any bugs or issues.
+10. Documentation:
+
+Provide documentation explaining the graphics and visuals you created using Core Graphics. Include details on techniques used, any challenges encountered, and how you addressed them.
+Submission:
+
+Submit your updated Xcode project folder along with any additional project files if necessary. Include the documentation explaining the graphics and visuals created using Core Graphics.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of Core Graphics into your iOS app.
+Creativity and effectiveness of the custom graphics, gradients, and images created.
+Smooth rendering and high-quality visuals.
+Appropriate use of user interaction (if applicable).
+Thorough testing to ensure graphics work as intended.
+Documentation: Is there clear documentation explaining the graphics and visuals created using Core Graphics?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Core Graphics is a powerful framework that enables you to create custom visuals and graphics for your iOS apps.
+Experiment with various Core Graphics techniques to enhance your app's visual appeal and user experience.
+Consider the performance implications of complex graphics rendering, especially on older devices. Optimize your code for smooth performance.
+Leveraging Core Graphics effectively can set your app apart by providing unique and visually appealing features.
+
+
+

@@ -1,0 +1,66 @@
+Swift Developer Course
+
+Assignment 4: Core Image (macOS)
+
+Objective: The objective of this assignment is to explore advanced image processing using Core Image on macOS. Students will gain practical experience in applying various image filters and effects to enhance images in their macOS app.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will create a macOS app that leverages Core Image to apply various image filters and effects. Core Image is a powerful framework for real-time image processing, and it provides a wide range of built-in filters that you can use to enhance and transform images.
+
+Requirements:
+
+1. macOS App Project:
+
+Begin by creating a new macOS app project in Xcode or use an existing project that you'd like to enhance with Core Image image processing.
+2. Core Image Integration:
+
+Integrate Core Image into your macOS app to apply image filters and effects. You should be able to:
+Load images from the user's file system or other sources.
+Apply a variety of filters, such as blurs, color adjustments, and distortion, to the loaded images.
+Display the processed images in your app's user interface.
+3. Image Loading:
+
+Implement functionality to load images from the user's device or allow users to select images from their file system.
+4. Filter Selection:
+
+Create a user interface that allows users to select from a range of filters and effects. You can use menus, buttons, or other UI elements for this purpose.
+5. Image Processing:
+
+Apply the selected filter or effect to the loaded image(s) using Core Image. Experiment with different filter parameters and settings to achieve various visual effects.
+6. Displaying Processed Images:
+
+Display the processed images in your macOS app's user interface. Ensure that the user can see the original and processed images side by side or with a clear visual distinction.
+7. User Interaction:
+
+Implement user interaction to allow users to load images, select filters, and apply them. Ensure that the app is user-friendly and provides clear instructions.
+8. Testing:
+
+Thoroughly test your macOS app to ensure that Core Image filters and effects work as intended. Verify that the processed images display correctly.
+9. Documentation:
+
+Provide documentation explaining how to use your macOS app to apply Core Image filters and effects. Include descriptions of the available filters and any special features you implemented.
+Submission:
+
+Submit your complete Xcode project folder, including any additional assets and resources required for your macOS app. Ensure that your app is well-documented.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of Core Image into your macOS app.
+Variety and creativity of filters and effects available to users.
+Smooth and visually appealing image processing.
+User-friendly interface with clear instructions.
+Thorough testing to ensure filters and effects work as intended.
+Documentation: Is there clear documentation explaining how to use the app and its features?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Core Image offers a wide range of image filters and effects that can enhance the visual appeal of your macOS app.
+Experiment with different filters and their parameters to achieve various artistic or practical effects.
+Ensure that your macOS app provides a smooth user experience and clear instructions for applying filters and viewing processed images.
+macOS apps can benefit from image processing in areas such as photography, graphic design, and visual art.

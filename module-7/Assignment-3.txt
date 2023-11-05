@@ -1,0 +1,56 @@
+Swift Developer Course
+
+Assignment 3: Realm Database (iOS)
+
+Objective: The objective of this assignment is to introduce students to Realm as an alternative to Core Data for data persistence in iOS apps. Students will build an iOS app that uses the Realm database to implement basic CRUD (Create, Read, Update, Delete) operations.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will explore Realm, a popular alternative to Core Data for data persistence in iOS apps. You will build an iOS app that uses the Realm database to implement basic CRUD (Create, Read, Update, Delete) operations. This assignment will help you become familiar with Realm's features and its integration into iOS apps.
+
+Requirements:
+
+1. Realm Integration:
+
+Create a new iOS app (or use an existing one) and integrate the RealmSwift framework into your Xcode project.
+2. Data Model:
+
+Define a data model for your app. You can choose a data model similar to the one used in the previous Core Data assignment (e.g., a to-do list, contacts, notes, etc.).
+3. CRUD Operations:
+
+Implement basic CRUD operations using Realm for your data model. Your app should allow users to:
+Create new records.
+Read and display existing records.
+Update records.
+Delete records.
+4. User Interface:
+
+Design and create a user interface for your app that allows users to interact with the data using CRUD operations. This can include adding, editing, and deleting items.
+5. Testing:
+
+Thoroughly test your app to ensure that the CRUD operations using Realm are functioning correctly. Test edge cases and ensure data consistency.
+6. Documentation:
+
+Provide documentation explaining how Realm is integrated into your app, how the data model is defined, and how CRUD operations are implemented. Include screenshots or screen recordings to demonstrate the app's functionality.
+Submission:
+
+Submit your Xcode project folder along with any additional project files if necessary. Include the documentation explaining how Realm is used in your app.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of RealmSwift into your iOS app.
+Correct implementation of CRUD operations using Realm.
+User-friendly and functional user interface for interacting with data.
+Effective testing to ensure data consistency and functionality.
+Documentation: Is there clear documentation explaining how Realm is used in your app, the data model, and how CRUD operations are implemented?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Realm is a popular alternative to Core Data for iOS app development due to its simplicity and performance.
+This assignment will give you hands-on experience with Realm and prepare you to use it in real-world iOS app projects.
+Use this opportunity to explore Realm's features and best practices for data persistence in iOS apps.

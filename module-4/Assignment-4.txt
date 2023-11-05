@@ -1,0 +1,60 @@
+Swift Developer Course
+
+Assignment 4: Mini-Project: Networking with Closures
+
+Objective: The objective of this assignment is to build a simple networking component using closures and asynchronous operations in Swift.
+
+Instructions:
+
+Task Description:
+
+In this mini-project, you will create a networking module in Swift that makes HTTP requests to a RESTful API. You will use closures to handle the asynchronous nature of networking, implement error handling, and parse JSON responses. This project reinforces your understanding of closures, error handling, and working with external data sources.
+
+Project Requirements:
+
+1. Set Up the Networking Module
+
+Create a Swift file named Networking.swift to contain your networking code.
+Define a class or structure that will represent your networking module.
+2. Create a Function for Making HTTP Requests
+
+Implement a function within your networking module that can make HTTP GET requests to a RESTful API. This function should take the following parameters:
+URL: The URL of the API endpoint to request data from.
+Completion Handler: A closure that takes two parameters - a result (either a successful response or an error) and the data (if successful).
+swift
+Copy code
+func fetchData(from url: URL, completion: @escaping (Result<Data, Error>) -> Void) {
+    // Implement the HTTP request and response handling here using URLSession.
+}
+3. Handle Errors Gracefully
+
+Ensure that your networking module handles errors gracefully. If an error occurs during the HTTP request or response parsing, pass the error to the completion handler.
+You can use Swift's Result type to encapsulate either the successful response data or an error.
+4. JSON Parsing
+
+Implement a function to parse JSON data (e.g., using JSONDecoder) within your networking module. If the data can be successfully decoded into a Swift data structure, pass that data to the completion handler.
+5. Using the Networking Module
+
+In a separate Swift file or playground, import your networking module and use it to make an API request.
+Define the URL of the RESTful API endpoint you want to access.
+Call your networking module's function to make the request and handle the response using closures.
+Submission:
+
+Submit a Swift playground or source code file that contains your networking module (Networking.swift) and a separate file that demonstrates how to use the module to make an API request. Ensure that your code correctly handles errors and parses JSON responses.
+
+Evaluation:
+
+Your mini-project will be evaluated based on the following criteria:
+
+Correct implementation of the networking module with a function for making HTTP requests.
+Proper handling of errors using closures and the Result type.
+Successful parsing of JSON responses.
+Demonstrated use of the networking module to make an API request and handle the response.
+Clear and well-structured code with appropriate comments.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Networking is an essential aspect of mobile app development, and understanding how to make HTTP requests and handle asynchronous operations is crucial.
+Encourage students to choose a publicly available RESTful API for their project, such as an API for weather data, news articles, or any other relevant data source.
+Ensure that students understand the concept of asynchronous operations and closures in Swift before starting this project.

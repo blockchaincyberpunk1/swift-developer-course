@@ -1,0 +1,63 @@
+Swift Developer Course
+
+Assignment 5: Mini-Project: ToDo List App
+
+Objective: The objective of this assignment is to build a simple iOS app using Swift, applying object-oriented programming concepts.
+
+Instructions:
+
+Project Description:
+
+In this mini-project, you will develop a basic ToDo list app for iOS using Swift. The app should allow users to add, edit, and delete tasks. You'll define classes or structures to represent tasks, create methods for performing operations on tasks, and build a user interface for displaying and managing the task list.
+
+Requirements:
+
+Task Structure:
+
+Define a class or structure called Task to represent individual tasks. Each task should have the following properties:
+
+title: A string representing the task title.
+description: A string representing additional details about the task.
+isCompleted: A boolean indicating whether the task is completed or not.
+Task Manager:
+
+Define a class called TaskManager to manage tasks. It should have the following methods:
+
+addTask(task: Task): Adds a task to the task list.
+editTask(task: Task, newTitle: String, newDescription: String): Modifies the title and description of an existing task.
+deleteTask(task: Task): Deletes a task from the task list.
+markTaskAsCompleted(task: Task): Marks a task as completed.
+User Interface:
+
+Build a user interface for the ToDo list app. The user interface should include:
+
+A list or table view to display the tasks.
+Buttons or actions for adding, editing, and deleting tasks.
+The ability to mark tasks as completed/uncompleted.
+Example:
+
+Here's an example of how your app's user interface and functionality might look:
+
+ToDo List App
+
+Submission:
+
+You should submit the Xcode project folder containing your ToDo list app. Ensure that your code is well-organized, and the user interface is intuitive and functional.
+
+Evaluation:
+
+Your mini-project will be evaluated based on the following criteria:
+
+Correct implementation of the Task class/structure with properties.
+Correct implementation of the TaskManager class with methods.
+Proper integration of the user interface components (list view, buttons, actions).
+Correct handling of task management operations (add, edit, delete, mark as completed).
+Code organization, comments, and documentation.
+User interface design and usability.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment provides practical experience in building a simple iOS app using Swift.
+Encourage students to create and test their app on an iOS simulator or device.
+Provide a sample screenshot or example of the app's expected user interface and functionality.

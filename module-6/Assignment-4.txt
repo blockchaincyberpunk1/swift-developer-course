@@ -1,0 +1,61 @@
+Swift Developer Course
+
+Assignment 4: Data Persistence
+
+Objective: The objective of this assignment is to explore data storage and persistence in iOS/macOS app development. You will build an app that allows users to create, edit, and delete data that is stored locally on their device. This could be a notes app, a journal app, or a simple database-driven app.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will create an iOS/macOS app that focuses on data persistence. The app should allow users to create, edit, and delete data, and all changes should be stored locally on the user's device. This assignment will help you understand and apply data storage and persistence concepts in Swift app development.
+
+Project Requirements:
+
+1. App Concept:
+
+Define the purpose and functionality of your app. You can create a notes app, a journal app, or any other app that requires data storage and user interaction.
+2. User Interface (UI):
+
+Design a user-friendly interface for your app, considering the requirements of the chosen app concept. Implement user interfaces for creating, editing, and deleting data.
+3. Data Model:
+
+Create a data model that represents the structure of the data your app will manage. For example, if you're building a notes app, your data model could include properties like a title, content, and a timestamp.
+4. Data Storage:
+
+Implement data storage mechanisms to save, retrieve, update, and delete data on the user's device. You can use technologies like Core Data (iOS/macOS), UserDefaults, or SQLite, depending on your preference and the complexity of your app.
+5. User Interaction:
+
+Allow users to create new data entries, edit existing entries, and delete entries. Ensure that user interactions are intuitive and straightforward.
+6. Error Handling:
+
+Implement error handling for scenarios such as failed data saves or data retrieval errors.
+7. Testing:
+
+Thoroughly test your app to ensure that data is stored correctly, edited and deleted as expected, and that the user interface is user-friendly.
+8. Documentation:
+
+Include documentation within your code to explain how data storage and retrieval work. Additionally, provide any necessary instructions on how to use your app.
+Submission:
+
+Submit your Xcode project folder (iOS) or Xcode project or Playground (macOS) along with any additional project files, if necessary. Include documentation explaining how to use your app, the purpose of the app, and details about the data storage mechanism you implemented.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of data storage and persistence mechanisms.
+Effective user interface design that allows users to create, edit, and delete data.
+Proper error handling for data-related operations.
+Thorough testing to ensure that data is stored and manipulated as expected.
+Documentation that explains how the app works and how to use it.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Data persistence is a fundamental concept in app development, and this assignment will help you practice and understand it better.
+Consider the data storage mechanism you use based on the complexity of your app. Core Data is suitable for more complex apps, while UserDefaults might suffice for simpler apps.
+Pay attention to the user interface and ensure that users can easily interact with and manage their data.
+
+
+

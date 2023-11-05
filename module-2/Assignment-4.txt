@@ -1,0 +1,44 @@
+Swift Developer Course
+
+Assignment 4: Working with Data Types
+
+Objective: The objective of this assignment is to explore Swift's data types and type inference.
+
+Instructions:
+
+Part 1: Data Type Basics
+
+Integer Operations: Provide students with problems that involve basic integer operations, such as addition, subtraction, multiplication, and division. For example:
+
+Write a Swift program that calculates the area of a rectangle given its length and width.
+String Manipulation: Assign exercises that require students to manipulate strings, including concatenation, interpolation, and slicing. For example:
+
+Write a Swift program that reverses a given string.
+Boolean Logic: Present problems related to boolean operations and conditions. For example:
+
+Write a Swift program that checks if a given number is even or odd and prints the result.
+Part 2: Type Inference
+
+Type Inference in Collections: Introduce type inference in Swift collections, such as arrays and dictionaries. For example:
+
+Write a Swift program that creates an array of mixed data types (e.g., integers, strings) and demonstrates how Swift infers the array's type.
+Type Safety and Optionals: Focus on type safety and optionals. Assign problems that involve safely unwrapping optionals and dealing with nil values. For example:
+
+Write a Swift program that safely unwraps an optional and handles the case when it's nil.
+Type Conversion: Present challenges that require type conversion between different data types. For example:
+
+Write a Swift program that converts a string representing a number into an integer and performs arithmetic operations.
+Part 3: Submission and Evaluation
+
+Submission: Students should write Swift code to solve the assigned problems. They can submit their solutions as code files (e.g., .swift) or in a document.
+
+Evaluation: Assess students' code for correctness, effective use of data types, and adherence to Swift's type inference principles. Provide feedback on code readability and handling of optionals.
+
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Encourage students to explore Swift's type inference capabilities and explain how Swift determines variable types.
+Promote discussions on the advantages of Swift's type safety and how it helps prevent runtime errors.
+Emphasize the importance of handling optionals properly to avoid crashes.
+Encourage students to test their code with various inputs to ensure it functions correctly.

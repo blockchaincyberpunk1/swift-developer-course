@@ -1,0 +1,58 @@
+Swift Developer Course
+
+Assignment 3: Methods in Structures
+
+Objective: The objective of this assignment is to practice creating methods within structures.
+
+Instructions:
+
+Problem Description:
+
+In this assignment, you will work with Swift structures and implement methods that operate on the structure's properties. You will define a set of structures and associated methods to solve various problems.
+
+Requirements:
+
+Point Structure:
+
+Create a Point structure with the following properties:
+x (Double): The x-coordinate of the point.
+y (Double): The y-coordinate of the point.
+Implement a method called distance(to otherPoint: Point) -> Double that calculates and returns the Euclidean distance between the current point and another point (otherPoint).
+The formula for calculating the Euclidean distance between two points (x1, y1) and (x2, y2) is: sqrt((x1 - x2)^2 + (y1 - y2)^2)
+Date Structure:
+
+Create a Date structure with the following properties:
+year (Int): The year component of the date.
+month (Int): The month component of the date.
+day (Int): The day component of the date.
+Implement methods for adding and subtracting days from a date:
+func addingDays(_ days: Int) -> Date: This method should return a new Date instance that represents the date after adding the specified number of days.
+func subtractingDays(_ days: Int) -> Date: This method should return a new Date instance that represents the date after subtracting the specified number of days.
+Implement validation in these methods to ensure the resulting date remains valid. For example, if the current date is February 28, adding 3 days should result in March 3 (accounting for leap years).
+Person Structure:
+
+Create a Person structure with the following properties:
+name (String): The name of the person.
+age (Int): The age of the person.
+Implement a method called sayHello() that prints a friendly greeting message, including the person's name and age.
+Submission:
+You should submit a Swift file containing the definitions of the Point, Date, and Person structures. Each structure should be well-documented with comments explaining the purpose of properties and methods.
+
+Evaluation:
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of structures with properties
+Implementation of methods that correctly operate on structure properties
+Accurate calculations in methods
+Code organization and documentation
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment aims to provide students with hands-on experience in creating structures and defining methods within them.
+Encourage students to create instances of these structures and test their methods to ensure correctness.
+Remind students to use clear and descriptive property and method names to enhance code readability.
+Provide examples in your assignment description to illustrate the expected output or behavior of the defined structures and methods.
+
+
+

@@ -1,0 +1,76 @@
+Swift Developer Course
+
+Assignment 1: Optionals and Handling Nil Values
+
+Objective: The objective of this assignment is to practice working with optionals and handling nil values in Swift.
+
+Instructions:
+
+Task Description:
+
+Optionals are a fundamental concept in Swift that allow you to handle situations where a value may be missing. In this assignment, you will work with optionals to safely manage nil values. Below are a set of exercises to help you practice using optionals in various scenarios:
+
+Exercise 1: Optional Parameters
+
+Write a Swift function that takes two optional integers as parameters and returns their sum if both parameters have values. If either parameter is nil, the function should return nil.
+
+swift
+Copy code
+func add(_ a: Int?, _ b: Int?) -> Int? {
+    // Implement the function here
+}
+Exercise 2: Optional Chaining
+
+Create a struct called Person with the following properties:
+
+name: A string representing the person's name (non-optional).
+address: An optional string representing the person's address.
+Then, write a function that takes a Person instance as a parameter and returns the person's address if it exists. If the address is nil, return "Address not available."
+
+swift
+Copy code
+struct Person {
+    var name: String
+    var address: String?
+}
+
+func getAddress(of person: Person) -> String {
+    // Implement the function here
+}
+Exercise 3: Optional Binding
+
+Write a Swift function that accepts an optional integer and prints "The value is (value)" if the integer has a value. If the integer is nil, print "No value."
+
+swift
+Copy code
+func printValue(_ value: Int?) {
+    // Implement the function here
+}
+Exercise 4: Forced Unwrapping
+
+Define an optional string variable message and set it to nil. Use forced unwrapping to print the message. Ensure that you safely handle the nil value to avoid runtime crashes.
+
+swift
+Copy code
+var message: String? = nil
+// Implement the forced unwrapping here
+Submission:
+
+You should submit a Swift playground or source code file containing your solutions for each exercise. Ensure that your code is correct, and it handles nil values safely using optionals.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of functions and optional handling logic.
+Proper use of optionals to handle nil values.
+Code organization and readability.
+Correct output for each exercise.
+Proper handling of forced unwrapping.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Optionals are a critical aspect of Swift programming, and mastering them is essential for robust and safe code.
+Test your functions with various input scenarios, including cases where values are present and where they are nil.
+Encourage students to understand the importance of optionals in reducing runtime crashes in Swift applications.

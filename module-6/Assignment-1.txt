@@ -1,0 +1,61 @@
+Swift Developer Course
+
+Assignment 1: Basic App Development
+
+Objective: The objective of this assignment is to consolidate your basic knowledge of Swift and app development by creating a simple iOS or macOS app.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will develop a basic iOS or macOS app. The app should have a simple user interface and focus on applying fundamental concepts of Swift programming. You can choose the type of app you want to create based on your interests. Here are some examples:
+
+To-Do List App: Create an app where users can add, edit, and remove tasks from a list.
+
+Calculator App: Build a calculator app that can perform basic arithmetic operations.
+
+Weather App: Develop an app that fetches and displays weather information for a user-defined location.
+
+Note-Taking App: Create an app where users can write and save text notes.
+
+Conversion App: Build a unit conversion app that converts between different units (e.g., temperature, length, currency).
+
+Project Requirements:
+
+1. Choose a Platform:
+
+Decide whether you want to create an iOS or macOS application. You can choose the platform that interests you the most.
+2. App Concept:
+
+Determine the purpose of your app and define its core functionality. Think about what features your app will include and how users will interact with it.
+3. User Interface (UI):
+
+Design a simple and user-friendly UI for your app. You can use Interface Builder (iOS) or Interface Builder (macOS) to create the user interface components.
+4. Swift Fundamentals:
+
+Implement the core functionality of your app using Swift programming fundamentals, such as variables, data types, functions, and control flow (e.g., if statements, loops).
+5. User Interaction:
+
+Ensure that your app responds to user interactions appropriately. For example, if you're building a to-do list app, users should be able to add tasks, mark tasks as completed, and delete tasks.
+6. Testing:
+
+Thoroughly test your app to ensure that it works correctly and responds to user input as expected.
+Submission:
+
+Submit your Xcode project folder (iOS) or Xcode project or Playground (macOS) along with any additional project files, if necessary. Include documentation explaining how to use your app and the core features it offers.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the chosen app's core functionality.
+User-friendly and intuitive user interface design.
+Proper responsiveness of the app to user interactions.
+Thorough testing and error handling.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment aims to apply the foundational knowledge you've gained in Swift programming and start building practical app development skills.
+Consider the user experience and ensure that your app is easy to navigate and use.
+If you encounter challenges during development, don't hesitate to seek assistance or explore additional resources to help you complete the assignment successfully.

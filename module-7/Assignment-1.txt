@@ -1,0 +1,68 @@
+Swift Developer Course
+
+Assignment 1: Introduction to Core Data (iOS/macOS)
+
+Objective: The objective of this assignment is to introduce students to Core Data for data persistence. Students will create a basic iOS/macOS app that uses Core Data to store and retrieve data. They can choose the data model, such as a list of tasks, contacts, or notes. The app should allow users to add, edit, and delete items, and data should be stored using Core Data.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will explore Core Data, Apple's powerful framework for data persistence in iOS/macOS applications. You will build a basic iOS/macOS app that uses Core Data to store and retrieve data. This assignment is designed to help you understand the fundamentals of Core Data, including creating a data model, saving data, and fetching data.
+
+Requirements:
+
+1. App Concept:
+
+Choose a data model for your app. This could be a to-do list, a list of contacts, a notes app, or any other data structure that interests you.
+2. User Interface (UI):
+
+Design a user interface that allows users to interact with the data model. For example, if you choose a to-do list, your UI should include options to add, edit, and delete tasks. Consider using UITableView (iOS) or NSTableView (macOS) for displaying the data.
+3. Core Data Setup:
+
+Set up a Core Data model for your app. Define the entities, attributes, and relationships necessary to represent your chosen data model. Ensure that the Core Data model is correctly configured.
+4. Data Operations:
+
+Implement the following data operations using Core Data:
+Adding new items: Allow users to add new items to your data model.
+Editing items: Provide the ability to edit existing items.
+Deleting items: Implement functionality to delete items.
+Saving data: Ensure that data is correctly saved to the Core Data store.
+5. Fetching Data:
+
+Implement fetching data from Core Data to populate your UI. Retrieve the stored data and display it in your app's user interface.
+6. Error Handling:
+
+Implement error handling to manage potential issues that may arise when working with Core Data, such as failed saves or fetches.
+7. Testing:
+
+Thoroughly test your app to ensure that data operations work as expected. Test edge cases and different user scenarios.
+8. Documentation:
+
+Provide documentation within your code explaining how Core Data is used in your app. Document any notable design choices and how to use your app.
+Submission:
+
+Submit your complete Xcode project folder (iOS) or Xcode project (macOS) along with any additional project files if necessary. Include documentation explaining how to use your app, the purpose of the app, and details about the chosen data model.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of Core Data: Does the app correctly set up Core Data entities and perform data operations?
+User interface: Is the user interface well-designed and user-friendly?
+Data operations: Can users add, edit, and delete items, and is data saved correctly using Core Data?
+Data fetching: Does the app correctly fetch and display data from Core Data?
+Error handling: Is error handling implemented to manage potential issues with Core Data?
+Testing: Is the app thoroughly tested, including edge cases and different user scenarios?
+Documentation: Is there clear documentation explaining how to use the app and any notable design choices?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Core Data is a fundamental framework for iOS/macOS app development, and this assignment will provide you with valuable experience in data persistence.
+Choose a data model that genuinely interests you to make the project engaging and meaningful.
+Consider the feedback you receive from your instructor and peers during the evaluation.
+Use this assignment as a portfolio piece to showcase your Core Data skills to potential employers or clients.
+
+
+

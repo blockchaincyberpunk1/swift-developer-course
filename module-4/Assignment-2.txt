@@ -1,0 +1,84 @@
+Swift Developer Course
+
+Assignment 2: Error Handling with Try-Catch
+
+Objective: The objective of this assignment is to reinforce the understanding of error handling in Swift.
+
+Instructions:
+
+Task Description:
+
+Error handling is a crucial aspect of Swift development that allows you to gracefully handle unexpected situations or errors in your code. In this assignment, you will work with Swift's error handling mechanisms, including do-catch blocks and throw statements. Below are a set of exercises to help you practice error handling in various scenarios:
+
+Exercise 1: Custom Error Type
+
+Create a custom error type called FileError that conforms to the Error protocol. FileError should have two cases:
+
+.fileNotFound: Indicates that a file was not found.
+.permissionDenied: Indicates that permission to access a file was denied.
+Next, write a function called readFile(_:) that takes a filename as a parameter. If the file exists, the function should return its contents as a string. If the file is not found, throw a FileError.fileNotFound error, and if permission is denied, throw a FileError.permissionDenied error.
+
+swift
+Copy code
+enum FileError: Error {
+    case fileNotFound
+    case permissionDenied
+}
+
+func readFile(_ filename: String) throws -> String {
+    // Implement the function here
+}
+Exercise 2: Error Handling in Division
+
+Write a function called divide(_:_:) that takes two integers as parameters and returns the result of dividing the first integer by the second integer. However, if the second integer is 0, the function should throw a custom error of type DivisionError with the description "Division by zero is not allowed."
+
+swift
+Copy code
+enum DivisionError: Error {
+    case divisionByZero
+}
+
+func divide(_ dividend: Int, by divisor: Int) throws -> Int {
+    // Implement the function here
+}
+Exercise 3: Using Do-Catch Blocks
+
+Use the readFile(_:) and divide(_:_:) functions created in Exercises 1 and 2. Write a program that demonstrates the use of do-catch blocks to catch and handle errors when calling these functions. Handle the errors gracefully and provide appropriate error messages.
+
+Exercise 4: Throwing Errors in a Loop
+
+Write a function called findElement(in:atIndex:) that takes an array of integers and an index as parameters. The function should return the element at the specified index if it exists. If the index is out of bounds, the function should throw an IndexError.outOfBounds error with the description "Index out of bounds."
+
+swift
+Copy code
+enum IndexError: Error {
+    case outOfBounds
+}
+
+func findElement(in array: [Int], atIndex index: Int) throws -> Int {
+    // Implement the function here
+}
+Exercise 5: Handling Errors in a Loop
+
+Use the findElement(in:atIndex:) function created in Exercise 4. Write a program that demonstrates handling errors in a loop. Iterate through a set of indices, calling the function for each index, and handle any errors that occur.
+
+Submission:
+
+You should submit a Swift playground or source code file containing your solutions for each exercise. Ensure that your code correctly handles errors using do-catch blocks and throw statements.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of functions with error handling logic.
+Proper use of custom error types and error descriptions.
+Appropriate use of do-catch blocks to catch and handle errors.
+Correct handling of errors in various scenarios.
+Proper documentation and comments.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Error handling is essential for building robust and reliable Swift applications.
+Encourage students to understand when and how to use error handling to handle exceptional cases in their code.
+Test the functions with various input scenarios, including cases where errors are expected.

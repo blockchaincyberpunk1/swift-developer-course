@@ -1,0 +1,40 @@
+Swift Developer Course
+
+Assignment 2: Control Flow
+
+Objective: The objective of this assignment is to practice control flow mechanisms in Swift, including conditional statements and switch statements.
+
+Instructions:
+
+Part 1: Conditional Statements (if, else if, else)
+
+Basic Conditional Statements: Provide students with simple problems that require the use of if statements to make decisions based on conditions. For example:
+
+Write a Swift program that checks if a given integer is even or odd and prints an appropriate message.
+Nested Conditional Statements: Assign exercises that involve nested if statements to handle multiple conditions. For example:
+
+Write a Swift program that determines if a student's score falls into a certain grade range (e.g., A, B, C, D, F) based on a score provided as input.
+Logical Operators: Include problems that require the use of logical operators (&&, ||, !) in if statements. For example:
+
+Write a Swift program that checks if a user is eligible for a discount based on their age and membership status.
+Part 2: Switch Statements
+
+Basic Switch Statements: Present problems that involve using switch statements for decision-making. For example:
+
+Write a Swift program that determines the day of the week based on an integer input (1 for Monday, 2 for Tuesday, etc.) using a switch statement.
+Switch with Enumerated Types: Introduce enumerated types (enums) and assign problems that require using enums in switch statements. For example:
+
+Define an enum for different types of fruits and write a Swift program that prints a message based on the selected fruit using a switch statement.
+Part 3: Submission and Evaluation
+
+Submission: Students should write Swift code to solve the assigned problems. They can submit their solutions as code files (e.g., .swift) or in a document.
+
+Evaluation: Assess students' code for correctness, the use of appropriate control flow mechanisms, and adherence to Swift syntax rules. Provide feedback on code readability and the efficiency of decision-making logic.
+
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Encourage students to write clear and concise code, including comments that explain their decision-making process.
+Promote discussions on the importance of choosing between if statements and switch statements based on the problem's requirements.
+Encourage students to consider edge cases and test their code with various inputs to ensure it functions correctly.

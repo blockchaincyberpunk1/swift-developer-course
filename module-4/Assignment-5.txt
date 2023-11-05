@@ -1,0 +1,48 @@
+Swift Developer Course
+
+Assignment 5: Functional Programming in Practice
+
+Objective: The objective of this assignment is to apply functional programming concepts in real-world scenarios using Swift.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will be presented with practical coding challenges that require you to apply functional programming techniques to solve problems. Functional programming is an essential paradigm in Swift, and this assignment aims to reinforce your understanding of its principles and usage.
+
+Project Requirements:
+
+1. Sorting Using Functional Programming
+
+Implement a function that takes an array of integers as input and sorts it in ascending order using functional programming principles. You should use a higher-order function like sorted(by:) or sorted() in combination with closures to achieve this.
+2. Filtering Using Functional Programming
+
+Create a function that takes an array of strings and filters out elements that meet specific criteria. For example, you could filter out strings that contain fewer than five characters or those that start with a certain letter. Use the filter(_:) method with closures to accomplish this task.
+3. Data Transformation Using Map
+
+Implement a function that takes an array of integers and transforms it into a new array of strings by appending " stars" to each integer. Use the map(_:) method with closures for this transformation.
+4. Calculations Using Reduce
+
+Create a function that calculates the sum of all elements in an array of integers using the reduce(_:_:) method. Your function should return the total sum as an integer.
+5. Putting It All Together
+
+Create a sample dataset, such as an array of objects, where each object contains multiple properties (e.g., name, age, score). Apply a combination of sorting, filtering, mapping, and reducing to this dataset to demonstrate the power of functional programming in real-world scenarios.
+You can choose your dataset or create a simplified one, and the operations you apply should be meaningful and relevant to the data you're working with.
+Submission:
+
+Submit a Swift playground or source code file that contains your implementation of the functional programming tasks mentioned above. Ensure that your code is well-documented, and you provide comments explaining your approach.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of sorting, filtering, mapping, and reducing functions using functional programming techniques.
+Effective and meaningful use of functional programming principles to manipulate data.
+Clear and well-structured code with appropriate comments explaining your approach.
+Proper handling of edge cases or potential errors in your functions.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Functional programming is an essential aspect of Swift development, and mastering these techniques can lead to more concise and maintainable code.
+Encourage students to experiment with different datasets and scenarios to gain a deeper understanding of how functional programming can be applied in various contexts.

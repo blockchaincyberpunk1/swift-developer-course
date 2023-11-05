@@ -1,0 +1,54 @@
+Swift Developer Course
+
+Assignment 1: Creating Classes and Structures
+
+Objective: The objective of this assignment is to practice defining classes and structures in Swift.
+
+Instructions:
+
+Problem Description:
+
+In this assignment, you will define classes and structures for various objects or concepts. You will practice creating properties, methods, and initializers for these classes and structures.
+
+Requirements:
+
+Person Class:
+
+Create a Person class with the following properties:
+name (String)
+age (Int)
+Implement an initializer to initialize a Person instance with a name and age.
+Create a method called introduce() that prints a message introducing the person (e.g., "Hi, I'm [name], and I am [age] years old.").
+Rectangle Structure:
+
+Create a Rectangle structure with the following properties:
+width (Double)
+height (Double)
+Implement an initializer to initialize a Rectangle instance with width and height.
+Create a method called area() that calculates and returns the area of the rectangle (width * height).
+Book Class:
+
+Create a Book class with the following properties:
+title (String)
+author (String)
+publicationYear (Int)
+Implement an initializer to initialize a Book instance with title, author, and publication year.
+Create a method called displayInfo() that prints the book's information (e.g., "Title: [title], Author: [author], Year: [publicationYear]").
+Submission:
+You should submit a Swift file containing the definitions of the Person class, Rectangle structure, and Book class. Each class or structure should be well-documented with comments explaining the purpose of properties, methods, and initializers.
+
+Evaluation:
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of classes and structures
+Implementation of initializers
+Implementation of methods
+Code organization and documentation
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment aims to provide students with hands-on experience in defining classes and structures, which are fundamental concepts in Swift programming.
+Encourage students to create instances of these classes and structures and test their functionality to ensure correctness.
+Remind students to use clear and descriptive property and method names to enhance code readability.
+Provide examples in your assignment description to illustrate the expected output or behavior of the defined classes and structures.

@@ -1,0 +1,45 @@
+Swift Developer Course
+
+Assignment 1: Variables and Data Types
+
+Objective: The objective of this assignment is to help students build a strong foundation in Swift programming by practicing the declaration of variables and working with different data types.
+
+Instructions:
+
+Part 1: Programming Problems
+
+Problem 1 - Integer Operations:
+
+Instruct students to declare two integer variables and perform basic arithmetic operations (addition, subtraction, multiplication, and division). They should print the results.
+Problem 2 - String Concatenation:
+
+Task students with declaring two string variables and concatenating them to create a full name. For example, if given "John" and "Doe," they should print "John Doe."
+Problem 3 - Type Inference:
+
+Provide a scenario where students need to declare a variable without explicitly specifying its data type. For instance, they might assign an integer value and let Swift infer the data type.
+Problem 4 - Floating-Point Operations:
+
+Challenge students to declare floating-point variables and perform mathematical operations involving decimals (e.g., addition, subtraction, multiplication, division).
+Problem 5 - Type Conversion:
+
+Create a problem where students need to convert data from one type to another. For example, they could convert an integer to a string or vice versa.
+Part 2: Testing and Documentation
+
+Testing:
+
+Students should test their solutions thoroughly to ensure correctness. They should provide input and expected output examples for each problem to demonstrate the correctness of their code.
+Documentation:
+
+Encourage students to add comments explaining their code, particularly for scenarios where type inference or type conversion is used. This documentation should help clarify their thought process.
+Part 3: Submission
+
+Submission:
+Students should submit their Swift source code files for each problem. Each problem's code should be organized in a separate file or section for clarity.
+Due Date: [Insert due date here]
+
+Evaluation Criteria:
+
+Correctness: Ensure that students' solutions produce the expected output.
+Proper use of variables and data types: Check if students have used the correct data types and handled type conversion where necessary.
+Clarity of code: Evaluate the readability and organization of their code.
+Testing: Verify that students have tested their solutions with different inputs and documented the results.

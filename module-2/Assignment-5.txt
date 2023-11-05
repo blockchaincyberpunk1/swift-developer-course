@@ -1,0 +1,56 @@
+Swift Developer Course
+
+Assignment 5: Mini-Project: Simple Calculator App
+
+Objective: The objective of this assignment is to build a basic iOS app that applies Swift fundamentals.
+
+Instructions:
+
+Project Description:
+In this mini-project, you will develop a simple calculator app for iOS using Swift. This project will reinforce your understanding of variables, data types, control flow, and user interface development.
+
+Requirements:
+
+User Interface (UI):
+
+Create a user interface with buttons for digits (0-9) and common operations (+, -, *, /).
+Include a text area or label to display the current input and results.
+Input Handling:
+
+Implement logic to capture user input when buttons are tapped.
+Display the entered digits and operations in the text area.
+Calculation Logic:
+
+Implement the logic to perform calculations based on the user's input.
+Ensure the calculator can handle addition (+), subtraction (-), multiplication (*), and division (/) operations.
+Display the calculated result in the text area when the user taps the equals (=) button.
+Clear and Reset:
+
+Provide a button (e.g., "C" or "Clear") that allows the user to clear the input and results.
+Error Handling:
+
+Handle cases where division by zero might occur or other errors related to calculations.
+Optional Enhancements:
+
+Decimal Point: If you want to take it a step further, add a decimal point button to allow decimal numbers in calculations.
+
+Memory Functions: Implement memory functions like "M+", "M-", "MR" (memory plus, memory minus, memory recall).
+
+Submission:
+You should submit the Xcode project containing your calculator app. Ensure that your code is well-documented, and your app functions correctly. You can also include a brief document explaining any additional features or enhancements you added.
+
+Evaluation:
+Your project will be evaluated based on the following criteria:
+
+User interface design and usability
+Accuracy of calculations
+Error handling
+Code organization and documentation
+Optional enhancements (if implemented)
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This mini-project aims to apply Swift programming fundamentals in the context of iOS app development.
+You are encouraged to explore iOS development documentation and resources to implement the calculator app effectively.
+Test your app thoroughly to ensure it handles different input scenarios and edge cases correctly.

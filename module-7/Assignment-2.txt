@@ -1,0 +1,57 @@
+Swift Developer Course
+
+Assignment 2: Advanced Core Data Features
+
+Objective: The objective of this assignment is to explore advanced features of Core Data. Students will extend their Core Data-based app by implementing more advanced features like relationships between entities, fetching data with predicates and sorting, using fetched results controllers, and addressing data migration and versioning.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will build upon the Core Data knowledge gained in the previous assignment and explore advanced features of Core Data. You will extend your existing Core Data-based app and implement more advanced functionality, including relationships between entities, fetching data with predicates and sorting, using fetched results controllers, and addressing data migration and versioning.
+
+Requirements:
+
+1. Relationships Between Entities:
+
+Extend your existing Core Data model to include relationships between entities. You can create one-to-one or one-to-many relationships between entities based on the requirements of your app.
+2. Fetching Data with Predicates:
+
+Implement data fetching using predicates to filter results. For example, you can allow users to search for specific items or filter data based on criteria.
+3. Sorting Data:
+
+Implement sorting for fetched data. Users should have the option to sort data by different attributes (e.g., by date, by priority, etc.).
+4. Fetched Results Controller:
+
+Implement the use of fetched results controllers (NSFetchedResultsController) to efficiently manage and display data in your app's UI. This is particularly useful for table views and collection views.
+5. Data Migration and Versioning:
+
+Address data migration and versioning in Core Data. Make changes to your data model and demonstrate how you handle data migration when users update your app to a new version.
+6. Testing:
+
+Thoroughly test your app to ensure that the new features work correctly. Test scenarios involving relationships, predicates, sorting, and data migration.
+7. Documentation:
+
+Provide documentation explaining how the advanced Core Data features are used in your app. Document any challenges you encountered and how you addressed them.
+Submission:
+
+Submit your updated Xcode project folder (iOS) or Xcode project (macOS) along with any additional project files if necessary. Include documentation explaining how to use the advanced features you've implemented.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of Core Data relationships between entities.
+Accurate data fetching using predicates and sorting.
+Effective use of fetched results controllers.
+Successful handling of data migration and versioning.
+Testing: Is the app thoroughly tested for the advanced features?
+Documentation: Is there clear documentation explaining how to use the advanced Core Data features, challenges faced, and solutions implemented?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Understanding advanced Core Data features is crucial for developing robust and feature-rich iOS/macOS apps.
+Use this assignment to enhance your app's functionality and improve your skills in Core Data usage.
+Consider the feedback you receive from your instructor and peers during the evaluation.
+Document any issues you encountered during the implementation of advanced Core Data features and how you resolved them. This can serve as valuable learning material for future projects.

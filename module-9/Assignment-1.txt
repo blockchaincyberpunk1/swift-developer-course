@@ -1,0 +1,63 @@
+Swift Developer Course
+
+Assignment 1: Open-Source Contribution
+
+Objective: The objective of this assignment is to encourage students to actively participate in the open-source Swift community and contribute to existing projects. Students will choose an open-source Swift project on platforms like GitHub and make meaningful contributions, thus gaining practical experience in collaborative development.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will actively engage with the open-source Swift community by contributing to an existing project hosted on platforms like GitHub. Your contributions can include fixing bugs, adding new features, improving documentation, or any other meaningful contributions that align with the project's goals and guidelines.
+
+Requirements:
+
+1. Project Selection:
+
+Browse open-source Swift projects on GitHub or other platforms and choose one that interests you and aligns with your skills and goals.
+2. Contributions:
+
+Make meaningful contributions to the selected open-source Swift project. Your contributions can include, but are not limited to:
+Fixing bugs or issues reported by the project.
+Adding new features or functionalities.
+Enhancing documentation, including code comments and README files.
+Optimizing code for performance or readability.
+Writing tests to improve code coverage.
+3. Documentation:
+
+Document your contributions clearly, explaining what issue or feature you addressed and how you implemented the solution.
+4. Interaction with Maintainers:
+
+Communicate with the project maintainers through platform-specific channels (e.g., GitHub issues, pull requests, or discussions) to discuss your contributions.
+Be open to feedback and collaborate effectively with the project maintainers and other contributors.
+5. Multiple Contributions:
+
+Aim to make multiple contributions during the assignment period, but the number of contributions may vary depending on the project's needs and complexity.
+6. Feedback Documentation:
+
+Document any feedback or responses received from the project maintainers regarding your contributions. This includes feedback on pull requests, discussions, or comments.
+Submission:
+
+Submit a comprehensive report that includes the following:
+
+The name and URL of the open-source Swift project you chose for contributions.
+Detailed descriptions of the contributions you made, including code snippets, pull request links, or documentation updates.
+Documentation of any feedback or interactions with project maintainers.
+Reflect on the experience and share what you learned from this open-source contribution assignment.
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+The significance and quality of your contributions to the open-source Swift project.
+The effectiveness of your communication and collaboration with project maintainers and the open-source community.
+The documentation of your contributions and any feedback received.
+Your reflections on the experience and what you learned from this open-source contribution assignment.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Be proactive in finding suitable open-source projects and issues to work on.
+Respect the project's guidelines, code of conduct, and licensing when making contributions.
+Engage with the open-source community respectfully and professionally.
+Use version control tools (e.g., Git) effectively when working on open-source projects.
+Keep track of your contributions and interactions to create a comprehensive report.

@@ -1,0 +1,58 @@
+Swift Developer Course
+
+Assignment 2: Properties and Methods in Classes
+
+Objective: The objective of this assignment is to reinforce the understanding of properties and methods within classes.
+
+Instructions:
+
+Problem Description:
+
+In this assignment, you will create classes with various properties (both stored and computed) and instance methods. You will implement a set of classes to practice working with properties and methods in Swift.
+
+Requirements:
+
+BankAccount Class:
+
+Create a BankAccount class with the following properties:
+accountHolder (String): The name of the account holder.
+balance (Double): The current balance in the account.
+Implement an initializer to initialize a BankAccount instance with an account holder's name and an initial balance.
+Create methods for deposit and withdrawal:
+func deposit(amount: Double): This method should add the specified amount to the account balance.
+func withdraw(amount: Double): This method should subtract the specified amount from the account balance.
+Rectangle Class:
+
+Create a Rectangle class with the following properties:
+width (Double): The width of the rectangle.
+height (Double): The height of the rectangle.
+Implement an initializer to initialize a Rectangle instance with width and height.
+Create computed properties to calculate and return the area and perimeter of the rectangle:
+var area: Double: Computes and returns the area (width * height).
+var perimeter: Double: Computes and returns the perimeter (2 * (width + height)).
+Student Class:
+
+Create a Student class with the following properties:
+name (String): The name of the student.
+scores (an array of Int): An array of test scores.
+Implement an initializer to initialize a Student instance with a name and an array of test scores.
+Create a computed property called averageScore that calculates and returns the average score of the student.
+Create a method called displayInfo() that prints the student's name, scores, and average score.
+Submission:
+You should submit a Swift file containing the definitions of the BankAccount, Rectangle, and Student classes. Each class should be well-documented with comments explaining the purpose of properties and methods.
+
+Evaluation:
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of classes with properties (both stored and computed) and methods
+Implementation of initializers and methods
+Accurate calculations in computed properties
+Code organization and documentation
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment aims to provide students with hands-on experience in creating classes with properties and methods, which are essential concepts in object-oriented programming with Swift.
+Encourage students to create instances of these classes and test their functionality to ensure correctness.
+Remind students to use clear and descriptive property and method names to enhance code readability.
+Provide examples in your assignment description to illustrate the expected output or behavior of the defined classes and structures.

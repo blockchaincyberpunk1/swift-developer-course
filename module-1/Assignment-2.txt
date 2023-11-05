@@ -1,0 +1,42 @@
+Swift Developer Course
+
+Assignment 2: Control Structures
+
+Objective: The objective of this assignment is to reinforce students' understanding of control structures in Swift, including if statements, loops, and switch statements.
+
+Instructions:
+
+Part 1: Programming Problems
+
+Problem 1 - Conditional Statements:
+
+Instruct students to create a Swift program that evaluates a person's age and determines if they are eligible to vote (age >= 18) or not. The program should print a message accordingly.
+Problem 2 - Looping:
+
+Task students with writing a Swift program that uses a for loop to print even numbers from 1 to 20.
+Problem 3 - While Loop:
+
+Challenge students to implement a Swift program that uses a while loop to find the sum of the first 50 natural numbers.
+Problem 4 - Switch Statements:
+
+Provide a scenario where students need to use a switch statement to handle different user input. For example, they could create a simple calculator program that takes two numbers and an operator as input and prints the result.
+Part 2: Testing and Documentation
+
+Testing:
+
+Students should test their solutions with various inputs to ensure they work correctly.
+Documentation:
+
+Encourage students to add comments explaining their code, particularly for scenarios where they use control structures. Comments should clarify their logic.
+Part 3: Submission
+
+Submission:
+Students should submit their Swift source code files for each problem, organized in separate sections or files.
+Due Date: [Insert due date here]
+
+Evaluation Criteria:
+
+Correctness: Ensure that students' solutions produce the expected output and handle various input scenarios.
+Proper use of control structures: Verify that students have used if statements, loops, and switch statements appropriately for each problem.
+Clarity of code: Evaluate the readability and organization of their code.
+Testing: Check if students have tested their solutions with different inputs and documented the results.

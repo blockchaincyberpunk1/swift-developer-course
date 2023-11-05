@@ -1,0 +1,42 @@
+ Swift Developer Course
+
+Assignment 3: Functions
+
+Objective: The objective of this assignment is to practice defining and calling functions in Swift, including functions with various parameters, return types, and complexities.
+
+Instructions:
+
+Part 1: Programming Problems
+
+Problem 1 - Simple Function:
+
+Instruct students to create a Swift function that takes two integers as parameters and returns their sum.
+Problem 2 - Function with Return Type:
+
+Task students with writing a Swift function that calculates the factorial of a given integer and returns the result. The function should have an integer parameter.
+Problem 3 - Function with Default Parameters:
+
+Challenge students to define a Swift function that calculates the area of a rectangle. The function should have two parameters, length and width, with a default value of 1.0. It should return the area as a floating-point number.
+Problem 4 - Recursive Function:
+
+Provide a scenario where students need to create a recursive Swift function to compute the Fibonacci sequence for a given input n.
+Part 2: Testing and Documentation
+
+Testing:
+
+Students should test their functions with various inputs to ensure they work correctly.
+Documentation:
+
+Encourage students to add comments explaining their functions, including input parameters, return types, and the purpose of each function.
+Part 3: Submission
+
+Submission:
+Students should submit their Swift source code files for each problem, organized in separate sections or files.
+Due Date: [Insert due date here]
+
+Evaluation Criteria:
+
+Correctness: Ensure that students' functions produce the expected output for different inputs.
+Proper use of functions: Verify that students have defined functions with appropriate parameters, return types, and levels of complexity for each problem.
+Clarity of code: Evaluate the readability and organization of their code, including function names and comments.
+Testing: Check if students have tested their functions with different inputs and documented the results.

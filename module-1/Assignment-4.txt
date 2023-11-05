@@ -1,0 +1,54 @@
+Swift Developer Course
+
+Assignment 4: Basic Problem Solving
+
+Objective: The objective of this assignment is to apply programming concepts learned so far, including variables, data types, control structures, and functions, to solve practical real-world problems using Swift.
+
+Instructions:
+
+Part 1: Problem Solving
+
+Problem 1 - Temperature Conversion:
+
+Instruct students to create a Swift program that converts temperatures between Fahrenheit and Celsius. The program should:
+Ask the user for a temperature value and the current scale (Fahrenheit or Celsius).
+Convert the temperature to the other scale.
+Display the converted temperature.
+Problem 2 - Shopping Cart:
+
+Challenge students to design a Swift program that simulates a shopping cart. The program should allow users to:
+Add items (with names and prices) to the cart.
+View the items in the cart.
+Calculate and display the total price of items in the cart.
+Problem 3 - Grade Calculator:
+
+Task students with creating a Swift program that calculates and displays a student's grade based on their test scores. The program should:
+Ask for the student's name and test scores.
+Calculate the average score.
+Determine the grade (e.g., A, B, C) based on the average score.
+Problem 4 - Word Counter:
+
+Provide students with a Swift program that counts the number of words in a given text input. The program should:
+Prompt the user to enter a text paragraph.
+Analyze the text and count the words.
+Display the word count.
+Part 2: Testing and Documentation
+
+Testing:
+
+Students should thoroughly test their programs with various inputs to ensure they work correctly.
+Documentation:
+
+Encourage students to add comments explaining their code and the logic behind their solutions.
+Part 3: Submission
+
+Submission:
+Students should submit their Swift source code files for each problem, organized in separate sections or files.
+Due Date: [Insert due date here]
+
+Evaluation Criteria:
+
+Correctness: Ensure that students' programs produce the expected output and correctly solve the specified problems.
+Proper use of programming concepts: Verify that students apply variables, data types, control structures, and functions appropriately in their solutions.
+Clarity of code: Evaluate the readability and organization of their code, including variable names and comments.
+Testing: Check if students have tested their programs with different inputs and documented the results.

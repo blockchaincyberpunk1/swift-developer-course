@@ -1,0 +1,57 @@
+Swift Developer Course
+
+Assignment 2: Networking Basics
+
+Objective: The objective of this assignment is to introduce you to networking concepts and API integration in app development.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will build an iOS or macOS app that retrieves data from a public API of your choice and displays it in the app's user interface. This assignment will help you understand the basics of making network requests and working with API data in Swift.
+
+Project Requirements:
+
+1. Choose an API:
+
+Select a public API that provides data of interest to you. You can choose from various categories like weather, news, quotes, trivia, or any other API that intrigues you. Ensure that the API provides data in a format that you can easily parse in Swift (e.g., JSON).
+2. App Concept:
+
+Define the purpose of your app and how it will utilize the API data. For example, if you choose a weather API, your app can display weather information for a user-defined location.
+3. User Interface (UI):
+
+Design a user-friendly interface for your app. Consider how you'll present the data retrieved from the API. You can use Interface Builder (iOS) or Interface Builder (macOS) for UI components.
+4. Networking:
+
+Implement the networking code to make HTTP requests to the chosen API. Use URLSession (iOS/macOS) or a similar library to handle network communication.
+5. API Data Parsing:
+
+Parse the data received from the API and convert it into Swift data structures (e.g., arrays, dictionaries, structs, classes) that can be displayed in your app's UI.
+6. Display Data:
+
+Display the data retrieved from the API in your app's user interface. Ensure that the information is presented in an organized and visually appealing manner.
+7. Error Handling:
+
+Implement error handling to gracefully handle network-related errors, such as network connectivity issues or API response errors.
+8. Testing:
+
+Test your app thoroughly to ensure that it successfully retrieves and displays data from the API.
+Submission:
+
+Submit your Xcode project folder (iOS) or Xcode project or Playground (macOS) along with any additional project files, if necessary. Include documentation explaining how to use your app, the purpose of the chosen API, and any other relevant details.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of networking code to retrieve data from the chosen API.
+Effective parsing and presentation of API data in the app's user interface.
+Proper error handling for network-related issues.
+Thorough testing to ensure the app functions as expected.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment aims to introduce you to networking concepts and API integration in app development, which is a crucial skill for building real-world applications.
+Choose an API that genuinely interests you, as it will make the assignment more engaging.
+Seek assistance or explore additional resources if you encounter challenges during development. Networking can sometimes be complex, but there are many resources available to help you.

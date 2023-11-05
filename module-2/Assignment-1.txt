@@ -1,0 +1,40 @@
+Swift Developer Course
+
+Assignment 1: Basic Syntax Practice
+
+Objective: The objective of this assignment is to reinforce students' understanding of Swift's syntax, including variable declaration, constants, and basic operations.
+
+Instructions:
+
+Part 1: Variable Declaration
+
+Variable Declaration: Provide students with a set of variable declaration exercises. For each exercise, instruct them to declare variables with appropriate data types (e.g., integers, strings, floats) and initialize them with specific values. Examples:
+Declare an integer variable age and set it to 25.
+Declare a string variable name and set it to "John Doe".
+Declare a float variable price and set it to 19.99.
+Part 2: Constants and Operations
+
+Constants: Introduce students to constants. Instruct them to declare constant variables for values that should not change. For example:
+
+Declare a constant variable pi and set it to the value 3.14159.
+Arithmetic Operations: Provide exercises that involve arithmetic operations. Students should perform calculations using variables and constants. For example:
+
+Declare two integer variables, num1 and num2, and set them to different values.
+Calculate the sum, difference, product, and quotient of num1 and num2.
+String Manipulation: Assign exercises that require string manipulation, such as concatenation, interpolation, or extracting substrings. For example:
+
+Declare a string variable greeting and set it to "Hello, ".
+Declare a string variable name and set it to "Alice".
+Combine greeting and name to create a personalized greeting message.
+Part 3: Submission and Evaluation
+
+Submission: Students should write Swift code to complete the exercises. They can submit their solutions as code files (e.g., .swift) or in a document.
+
+Evaluation: Assess students' code for correctness, adherence to Swift syntax rules, and the use of appropriate data types. Consider providing feedback on their variable naming conventions and code clarity.
+
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Encourage students to write clear and well-documented code, including comments that explain their thought process or any challenges they encountered.
+Provide opportunities for students to ask questions or seek clarification on Swift syntax during class or office hours.

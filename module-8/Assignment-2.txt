@@ -1,0 +1,60 @@
+Swift Developer Course
+
+Assignment 2: Core Animation (iOS)
+
+Objective: The objective of this assignment is to learn how to create animations using Core Animation on iOS. Students will gain practical experience in using Core Animation to design visually appealing animations for UI elements.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will create an iOS app that incorporates Core Animation to design custom animations for various UI elements. Core Animation is a powerful framework that allows you to add smooth, visually appealing animations to your app.
+
+Requirements:
+
+1. Choose Your iOS App:
+
+Select an existing iOS app from your previous assignments or create a new one if you prefer a fresh project.
+2. Core Animation Integration:
+
+Integrate Core Animation into your app to create animations for one or more UI elements. You can choose from a variety of properties to animate, including but not limited to:
+Position: Move UI elements smoothly across the screen.
+Scale: Gradually scale elements in or out to create zooming effects.
+Opacity: Fade elements in or out to control visibility.
+Rotation: Rotate elements to add dynamism.
+3. Create Custom Animations:
+
+Design custom animations for the selected UI elements. The animations should be visually appealing and enhance the user experience.
+4. Experimentation:
+
+Experiment with different animation properties and techniques to achieve the desired visual effects. You can combine multiple animations to create complex interactions.
+5. User Interaction:
+
+Implement user interaction to trigger or control the animations. This can include tap gestures, swipe gestures, or other user actions.
+6. Testing:
+
+Thoroughly test your app to ensure that the animations work smoothly and as intended. Verify that they do not introduce any bugs or issues.
+7. Documentation:
+
+Provide documentation explaining the animations you created, the properties you used, and how they contribute to the user experience. Include any challenges you encountered and how you addressed them.
+Submission:
+
+Submit your updated Xcode project folder along with any additional project files if necessary. Include the documentation explaining the animations you created and their impact on the user experience.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Successful integration of Core Animation into your iOS app.
+Creativity and effectiveness of the custom animations designed for UI elements.
+Smooth and visually appealing animations.
+Appropriate use of user interaction to trigger or control animations.
+Thorough testing to ensure animations work as intended.
+Documentation: Is there clear documentation explaining the animations created, the properties used, and their impact on the user experience?
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Core Animation is a valuable skill for iOS developers, as it allows you to create visually engaging and interactive user interfaces.
+Experiment with different animation properties and combinations to unleash your creativity and enhance your app's user experience.
+Be mindful of performance considerations when using Core Animation, especially for complex animations.

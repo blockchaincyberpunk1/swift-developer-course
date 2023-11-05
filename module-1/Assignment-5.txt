@@ -1,0 +1,55 @@
+Swift Developer Course
+
+Assignment 5: Mini-Project: Simple iOS App
+
+Objective: The objective of this assignment is to apply programming fundamentals in a practical context by creating a basic iOS app using Swift. This project serves as an introduction to iOS app development.
+
+Instructions:
+
+Part 1: Project Requirements
+
+App Concept:
+
+Students should come up with a simple and creative iOS app concept. The app can serve a basic purpose or provide a straightforward utility.
+User Interface (UI):
+
+Students should design the user interface (UI) of the app using Interface Builder or SwiftUI. The UI should be clean, intuitive, and user-friendly.
+Functionality:
+
+Implement functionality within the app based on the chosen concept. The functionality should demonstrate their understanding of programming fundamentals. For example:
+If the app is a calculator, it should perform basic calculations like addition, subtraction, multiplication, and division.
+If the app is a note-taking app, it should allow users to create, edit, and delete notes.
+If the app is a currency converter, it should convert between different currencies.
+User Input and Output:
+
+Ensure that the app can take user input (if applicable) and display results or perform actions accordingly.
+Part 2: Development and Testing
+
+Coding:
+
+Instruct students to write the Swift code to implement the app's functionality. They should follow best practices for iOS app development.
+Testing:
+
+Students should thoroughly test their app on an iOS simulator or a physical iOS device to ensure that it works as intended. Testing should include different scenarios and user inputs.
+Part 3: Documentation and Presentation
+
+Documentation:
+
+Encourage students to create a brief document or README that explains the purpose of their app, how to use it, and any special features or considerations.
+Presentation:
+
+Optionally, students can present their apps to the class, sharing their design choices, demonstrating functionality, and discussing any challenges they faced during development.
+Part 4: Submission
+
+Submission:
+Students should submit their iOS app project files, including the Swift source code and any necessary resources (e.g., images or assets).
+Due Date: [Insert due date here]
+
+Evaluation Criteria:
+
+Creativity and Concept: Assess the uniqueness and creativity of the app concept.
+User Interface (UI): Evaluate the design and user-friendliness of the app's UI.
+Functionality: Check if the app's functionality meets the specified requirements.
+Coding Best Practices: Review the quality and organization of the Swift code.
+Testing: Ensure that the app has been thoroughly tested and works correctly.
+Documentation: Evaluate the clarity and completeness of the documentation or README.

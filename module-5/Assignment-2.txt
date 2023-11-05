@@ -1,0 +1,54 @@
+Swift Developer Course
+
+Assignment 2: Navigation and View Controllers
+
+Objective: The objective of this assignment is to reinforce the understanding of view controllers and navigation in iOS or macOS applications.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will build a multi-screen application for either iOS or macOS. You will create multiple view controllers, establish navigation between them, and pass data between view controllers. This assignment will help you practice working with view controllers and navigation components.
+
+Project Requirements:
+
+1. Choose a Platform:
+
+Decide whether you want to create an iOS or macOS application. You can choose the platform that interests you the most.
+2. Design Your Application:
+
+Determine the purpose of your application and plan the different screens or view controllers you need. For example, you can create a simple note-taking app with screens for creating, editing, and viewing notes.
+3. Implement View Controllers:
+
+Create multiple view controllers based on your design. You should have at least three view controllers (e.g., a list view, a detail view, and an edit view). You can create more if your application design requires it.
+4. Establish Navigation:
+
+Implement navigation between view controllers. For iOS, you can use navigation controllers and push or present view controllers as needed. For macOS, you can use segue transitions or other navigation mechanisms.
+5. Pass Data Between View Controllers:
+
+Implement data passing between view controllers. For example, if you have a list view and a detail view, you should be able to tap on a list item and see the details in the detail view.
+6. Optional: UI Improvements (Bonus)
+
+If you want to go further, you can work on improving the user interface by adding features like:
+Navigation bar customization (iOS).
+Custom view controller transitions (iOS).
+Styling and theming.
+Animations for transitions.
+Submission:
+
+Submit your Xcode project folder along with any additional project files, if necessary. Include documentation explaining the navigation flow and data passing mechanisms you implemented.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the required view controllers and navigation components.
+Effective data passing between view controllers.
+Attention to detail in terms of user interface and user experience.
+Optional: Creativity and thoughtfulness in UI improvements (if attempted).
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Understanding how to navigate between different parts of an application and pass data between view controllers is a fundamental skill for app development.
+Pay attention to creating a seamless and user-friendly navigation experience for your application users.

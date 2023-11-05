@@ -1,0 +1,60 @@
+Swift Developer Course
+
+Assignment 4: Enumerations and Associated Values
+
+Objective: The objective of this assignment is to explore Swift's enum types and associated values.
+
+Instructions:
+
+Problem Description:
+
+In this assignment, you will work with Swift enumerations (enums) and associated values. You will define a set of enums that represent different geometric shapes, and each enum case will have associated values to store relevant data about those shapes.
+
+Requirements:
+
+Geometric Shapes Enumeration:
+
+Define an enumeration called GeometricShape with the following cases:
+
+circle(radius: Double): This case should have an associated value representing the radius of the circle.
+rectangle(width: Double, height: Double): This case should have associated values for both the width and height of the rectangle.
+triangle(base: Double, height: Double): This case should have associated values for the base and height of the triangle.
+Shape Calculation Method:
+
+Implement a method called calculateArea() for the GeometricShape enum. This method should calculate and return the area of the shape based on its associated values. Use the following formulas:
+
+Circle: π * radius^2
+Rectangle: width * height
+Triangle: 0.5 * base * height
+Example:
+
+Here's how you should be able to use the GeometricShape enum and its associated values:
+
+swift
+Copy code
+let circleShape = GeometricShape.circle(radius: 5.0)
+let rectangleShape = GeometricShape.rectangle(width: 4.0, height: 6.0)
+let triangleShape = GeometricShape.triangle(base: 3.0, height: 4.0)
+
+let circleArea = circleShape.calculateArea() // Should calculate the area of the circle.
+let rectangleArea = rectangleShape.calculateArea() // Should calculate the area of the rectangle.
+let triangleArea = triangleShape.calculateArea() // Should calculate the area of the triangle.
+Submission:
+You should submit a Swift file containing the definition of the GeometricShape enum and its associated value cases. Additionally, include the implementation of the calculateArea() method.
+
+Evaluation:
+Your assignment will be evaluated based on the following criteria:
+
+Correct definition of the GeometricShape enum with associated values.
+Implementation of the calculateArea() method that correctly calculates the area based on the shape's associated values.
+Code organization and documentation.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+This assignment encourages students to explore Swift's enum types and associated values.
+Encourage students to create instances of the GeometricShape enum and calculate the areas to ensure correctness.
+Provide examples in your assignment description to illustrate the expected output or behavior of the defined enum and method.
+
+
+

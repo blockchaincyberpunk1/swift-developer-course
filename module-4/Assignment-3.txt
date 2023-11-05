@@ -1,0 +1,75 @@
+Swift Developer Course
+
+Assignment 3: Closures and Higher-Order Functions
+
+Objective: The objective of this assignment is to practice working with closures and functional programming concepts in Swift.
+
+Instructions:
+
+Task Description:
+
+Closures are a fundamental concept in Swift, and they play a significant role in functional programming. In this assignment, you will work with closures and higher-order functions, which are functions that take closures as arguments or return closures as results.
+
+Exercise 1: Basic Closure
+
+Write a closure called greet that takes a String parameter (name) and returns a String greeting. The closure should be defined in the following format:
+
+swift
+Copy code
+let greet: (String) -> String = { (name: String) -> String in
+    // Implement the closure here
+}
+Exercise 2: Higher-Order Function - Filter
+
+Implement a higher-order function called filterNumbers that takes an array of integers and a closure as parameters. The closure should specify a condition that determines whether each element in the array should be included in the result. The filterNumbers function should return an array containing the elements for which the closure's condition is true.
+
+swift
+Copy code
+func filterNumbers(_ numbers: [Int], _ condition: (Int) -> Bool) -> [Int] {
+    // Implement the function here
+}
+Exercise 3: Higher-Order Function - Map
+
+Implement a higher-order function called squareNumbers that takes an array of integers and a closure as parameters. The closure should define a transformation operation to be applied to each element in the array. The squareNumbers function should return an array containing the results of applying the closure's operation to each element.
+
+swift
+Copy code
+func squareNumbers(_ numbers: [Int], _ transform: (Int) -> Int) -> [Int] {
+    // Implement the function here
+}
+Exercise 4: Higher-Order Function - Reduce
+
+Implement a higher-order function called calculateSum that takes an array of integers and a closure as parameters. The closure should specify an operation to combine the elements of the array to produce a single result (e.g., addition or multiplication). The calculateSum function should return the result obtained by applying the closure's operation to the array's elements.
+
+swift
+Copy code
+func calculateSum(_ numbers: [Int], _ operation: (Int, Int) -> Int) -> Int {
+    // Implement the function here
+}
+Exercise 5: Using Closures
+
+Demonstrate the use of the closures and higher-order functions you implemented in Exercises 1 to 4. Create an array of integers and apply each function with an appropriate closure to achieve specific results. For example, you can filter out even numbers, square all numbers, or calculate the sum of all elements.
+
+Submission:
+
+You should submit a Swift playground or source code file containing your solutions for each exercise. Ensure that your code correctly defines closures, implements higher-order functions, and demonstrates their use.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of closures with the specified parameters and return types.
+Proper use of higher-order functions, including correct parameter types.
+Accurate and efficient implementation of filter, map, and reduce operations.
+Proper demonstration of the use of closures and higher-order functions in Exercise 5.
+Clear and well-structured code with appropriate comments.
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Closures are a powerful Swift feature that allows for concise and expressive code.
+Higher-order functions enable functional programming techniques, such as filtering, mapping, and reducing data.
+Encourage students to experiment with different closures and higher-order functions to gain a deeper understanding of their capabilities.
+
+
+

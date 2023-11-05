@@ -1,0 +1,56 @@
+Swift Developer Course
+
+Assignment 1: Simple Interface Design
+
+Objective: The objective of this assignment is to practice creating a basic user interface using Interface Builder and setting up Auto Layout constraints.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will design a simple user interface (UI) for either an iOS or macOS application. This assignment aims to help you become familiar with Interface Builder and Auto Layout, which are essential tools for creating user interfaces in Swift.
+
+Project Requirements:
+
+1. Choose a Platform:
+
+Decide whether you want to create a UI for an iOS or macOS application. You can choose the platform that interests you the most.
+2. Design a Simple UI:
+
+Using Interface Builder (for iOS) or Interface Builder (for macOS), design a basic user interface with the following elements:
+
+For iOS:
+Two labels (e.g., "Name" and "Age").
+Two text fields for input (one for the name and one for the age).
+A button (e.g., "Submit").
+For macOS:
+Two labels (e.g., "Username" and "Password").
+Two text fields for input (one for the username and one for the password).
+A button (e.g., "Login").
+3. Auto Layout Constraints:
+
+Set up Auto Layout constraints to ensure that your user interface adapts to different screen sizes and orientations. Your UI elements should be properly centered and spaced, and their sizes should be appropriate.
+4. Optional: Styling and Theming (Bonus)
+
+If you want to go further, you can experiment with styling and theming your UI. You can choose colors, fonts, and other design elements to make your UI visually appealing.
+Submission:
+
+Submit your Interface Builder file (e.g., .storyboard for iOS or .xib for macOS) along with any additional project files, if necessary. Ensure that you document any special considerations or challenges you encountered during the design process.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the required user interface elements (labels, text fields, and buttons).
+Effective use of Auto Layout constraints to create a responsive UI.
+Attention to detail in terms of UI element placement, spacing, and alignment.
+Optional: Creativity and thoughtfulness in styling and theming (if attempted).
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+User interface design is a crucial aspect of app development, and creating user-friendly and visually appealing interfaces is essential.
+Pay attention to the user experience (UX) principles while designing your interface to ensure it is intuitive and easy to use.
+
+
+

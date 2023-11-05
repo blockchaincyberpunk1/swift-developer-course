@@ -1,0 +1,60 @@
+Swift Developer Course
+
+Assignment 3: Table View Implementation
+
+Objective: The objective of this assignment is to gain proficiency in working with table views in iOS or macOS applications.
+
+Instructions:
+
+Task Description:
+
+In this assignment, you will create a simple iOS or macOS app that displays a list of items using a table view. You will implement the data source and delegate methods to populate the table view with data and handle row selection. This assignment will help you practice working with table views, a fundamental component for displaying lists of data.
+
+Project Requirements:
+
+1. Choose a Platform:
+
+Decide whether you want to create an iOS or macOS application. You can choose the platform that interests you the most.
+2. Design Your Application:
+
+Determine the purpose of your application and the type of data you want to display in the table view. For example, you can create a simple to-do list app, a contacts app, or any app that requires a list of items.
+3. Create the Table View:
+
+Create a table view in your view controller or window. Ensure that it is properly configured and has enough space to display multiple rows.
+4. Implement Data Source:
+
+Implement the necessary data source methods to populate the table view with data. You should have an array or data source that provides the content for the table view cells.
+5. Display Data:
+
+Display the data in the table view cells. Each cell should represent an item from your data source. You can customize the appearance of the cells if needed.
+6. Handle Selection:
+
+Implement the delegate method to handle row selection. For example, if you tap on a row in the table view, you can navigate to a detail view or perform an action related to the selected item.
+7. Optional: UI Improvements (Bonus)
+
+If you want to go further, you can work on improving the user interface and user experience by adding features like:
+Search functionality.
+Swipe actions (e.g., swipe to delete).
+Custom cell designs.
+Animations.
+Submission:
+
+Submit your Xcode project folder (iOS) or Xcode project or Playground (macOS) along with any additional project files, if necessary. Include documentation explaining how to use your app and any additional features you implemented.
+
+Evaluation:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the table view and data source methods.
+Effective display of data in the table view cells.
+Proper handling of row selection.
+Optional: Creativity and thoughtfulness in UI improvements (if attempted).
+Due Date: [Insert due date here]
+
+Additional Notes:
+
+Table views are a common user interface element in iOS and macOS applications for displaying lists of data.
+Pay attention to creating a user-friendly and efficient interface for displaying and interacting with the data in your table view.
+
+
+
